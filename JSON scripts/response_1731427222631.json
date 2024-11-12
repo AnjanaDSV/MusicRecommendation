@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Bollywood",
+    "artist": "Dreamgirl",
+    "album": "Dreamgirl",
+    "preview_url": "https://p.scdn.co/mp3-preview/5d5f3bd665603cc8cb624fed0c7a13dd891f0ffe?cid=8b2befd867594d749e2672e8bb448435",
+    "uri": "spotify:track:78YacbWWosuurc9lGnbaEh",
+    "danceability": 0.376,
+    "energy": 0.375,
+    "acousticness": 0.0541,
+    "popularity": 29
+  },
+  {
+    "name": "Party Mashup - By DJ NYK",
+    "artist": "DJ Nyk",
+    "album": "Party Mashup (By DJ NYK)",
+    "preview_url": "https://p.scdn.co/mp3-preview/917dd675a6dd2fddc49399dafe88e8a52ebb94e2?cid=8b2befd867594d749e2672e8bb448435",
+    "uri": "spotify:track:3S5btcqb0ERiMhHJnX3vq7",
+    "danceability": 0.8,
+    "energy": 0.789,
+    "acousticness": 0.106,
+    "popularity": 40
+  },
+  {
+    "name": "Chaleya",
+    "artist": "Anirudh Ravichander",
+    "album": "Jawan",
+    "preview_url": "https://p.scdn.co/mp3-preview/205de8d72d229b1a6d45da2f8b2b6f1933a1c943?cid=8b2befd867594d749e2672e8bb448435",
+    "uri": "spotify:track:3xMHXmedL5Rvfxmiar9Ryv",
+    "danceability": 0.575,
+    "energy": 0.845,
+    "acousticness": 0.393,
+    "popularity": 72
+  },
+  {
+    "name": "What Jhumka ?",
+    "artist": "Pritam",
+    "album": "Rocky Aur Rani Kii Prem Kahaani (Original Motion Picture Soundtrack)",
+    "preview_url": "https://p.scdn.co/mp3-preview/ff3a54677840a85c4f8ceb66bc248b9915bf5430?cid=8b2befd867594d749e2672e8bb448435",
+    "uri": "spotify:track:4ebGjbay0OmsBNUwo0M6u6",
+    "danceability": 0.828,
+    "energy": 0.791,
+    "acousticness": 0.252,
+    "popularity": 54
+  },
+  {
+    "name": "Bhool Bhulaiyaa 3 - Title Track (feat. Pitbull)",
+    "artist": "Pitbull",
+    "album": "Bhool Bhulaiyaa 3 - Title Track (feat. Pitbull)",
+    "preview_url": "https://p.scdn.co/mp3-preview/3bfb554c54421f262be74daddb34384735aff255?cid=8b2befd867594d749e2672e8bb448435",
+    "uri": "spotify:track:7r6iwgXcR85d9rfqsuf2Af",
+    "danceability": 0.859,
+    "energy": 0.844,
+    "acousticness": 0.0917,
+    "popularity": 75
+  },
+  {
+    "name": "Teri Baaton Mein Aisa Uljha Jiya Title Song (From \"Teri Baaton Mein Aisa Uljha Jiya\")",
+    "artist": "Raghav",
+    "album": "Teri Baaton Mein Aisa Uljha Jiya Title Song (From \"Teri Baaton Mein Aisa Uljha Jiya\")",
+    "preview_url": "https://p.scdn.co/mp3-preview/27afda37220a8f0be7691deb3567e03e662e1439?cid=8b2befd867594d749e2672e8bb448435",
+    "uri": "spotify:track:6IR6mzRO60hnMjNoq8rCPE",
+    "danceability": 0.814,
+    "energy": 0.819,
+    "acousticness": 0.124,
+    "popularity": 68
+  },
+  {
+    "name": "Bollywood",
+    "artist": "Anamanaguchi",
+    "album": "Scott Pilgrim vs. the World: The Game (Original Videogame Soundtrack)",
+    "preview_url": null,
+    "uri": "spotify:track:71q0cT3eeN3KzqAzV64CY1",
+    "danceability": 0.27,
+    "energy": 0.978,
+    "acousticness": 0.0356,
+    "popularity": 27
+  },
+  {
+    "name": "BOLLYWOOD",
+    "artist": "ANDRO",
+    "album": "BOLLYWOOD",
+    "preview_url": "https://p.scdn.co/mp3-preview/944e03b000fbc410c958b9ae3ef3cef474b9e690?cid=8b2befd867594d749e2672e8bb448435",
+    "uri": "spotify:track:3E4F1T8InBUaTuDHFfc1sD",
+    "danceability": 0.772,
+    "energy": 0.669,
+    "acousticness": 0.441,
+    "popularity": 42
+  },
+  {
+    "name": "Bollywood",
+    "artist": "DJ Grumble",
+    "album": "Bollywood",
+    "preview_url": "https://p.scdn.co/mp3-preview/dd5658823e5a15c9087377e4152a946b5dd9b03b?cid=8b2befd867594d749e2672e8bb448435",
+    "uri": "spotify:track:7dMba6VgvRnMX2kGxlQ1Q9",
+    "danceability": 0.837,
+    "energy": 0.575,
+    "acousticness": 0.00478,
+    "popularity": 30
+  },
+  {
+    "name": "Bollywood Apologetics",
+    "artist": "Black Wing",
+    "album": "No Moon",
+    "preview_url": "https://p.scdn.co/mp3-preview/e7e6bbcacc167706885bfb76a456fd57a71af555?cid=8b2befd867594d749e2672e8bb448435",
+    "uri": "spotify:track:2g8DYqXZtARq84f6jpeTAI",
+    "danceability": 0.455,
+    "energy": 0.592,
+    "acousticness": 0.186,
+    "popularity": 28
+  }
+]

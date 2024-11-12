@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Butter",
+    "artist": "BTS",
+    "album": "Butter (Hotter, Sweeter, Cooler)",
+    "preview_url": "https://p.scdn.co/mp3-preview/4d63fe1638aa41592706f835bd076443b09d8afa?cid=8b2befd867594d749e2672e8bb448435",
+    "uri": "spotify:track:1mWdTewIgB3gtBM3TOSFhB",
+    "danceability": 0.759,
+    "energy": 0.459,
+    "acousticness": 0.00323,
+    "popularity": 65
+  },
+  {
+    "name": "Dynamite",
+    "artist": "BTS",
+    "album": "BE",
+    "preview_url": "https://p.scdn.co/mp3-preview/98e266fea9df84fa3e5ca84934c513211e89489b?cid=8b2befd867594d749e2672e8bb448435",
+    "uri": "spotify:track:5QDLhrAOJJdNAmCTJ8xMyW",
+    "danceability": 0.746,
+    "energy": 0.765,
+    "acousticness": 0.0112,
+    "popularity": 78
+  },
+  {
+    "name": "Boy With Luv (feat. Halsey)",
+    "artist": "BTS",
+    "album": "MAP OF THE SOUL : PERSONA",
+    "preview_url": "https://p.scdn.co/mp3-preview/c5e4b03bcf18d2b137370569baeb74a9dfce7e63?cid=8b2befd867594d749e2672e8bb448435",
+    "uri": "spotify:track:4a9tbd947vo9K8Vti9JwcI",
+    "danceability": 0.645,
+    "energy": 0.862,
+    "acousticness": 0.0933,
+    "popularity": 73
+  },
+  {
+    "name": "IDOL",
+    "artist": "BTS",
+    "album": "Love Yourself 結 'Answer'",
+    "preview_url": "https://p.scdn.co/mp3-preview/93b4dfb9190f85c0ee0cd927794f5d0b7911017d?cid=8b2befd867594d749e2672e8bb448435",
+    "uri": "spotify:track:1e8J3XClxZbFmvIHLI8CE4",
+    "danceability": 0.733,
+    "energy": 0.855,
+    "acousticness": 0.00481,
+    "popularity": 68
+  },
+  {
+    "name": "DNA",
+    "artist": "BTS",
+    "album": "Love Yourself 結 'Answer'",
+    "preview_url": "https://p.scdn.co/mp3-preview/5031e0d1f4e1dedd05ade1b24a3beec07d7c75ce?cid=8b2befd867594d749e2672e8bb448435",
+    "uri": "spotify:track:2ngmiq1KoYn3x25VOmvd8F",
+    "danceability": 0.599,
+    "energy": 0.775,
+    "acousticness": 0.022,
+    "popularity": 61
+  },
+  {
+    "name": "FAKE LOVE",
+    "artist": "BTS",
+    "album": "Love Yourself 轉 'Tear'",
+    "preview_url": "https://p.scdn.co/mp3-preview/24ec465728ed83e2113589cd0fdab7f0de11bf7a?cid=8b2befd867594d749e2672e8bb448435",
+    "uri": "spotify:track:6m1TWFMeon7ai9XLOzdbiR",
+    "danceability": 0.557,
+    "energy": 0.719,
+    "acousticness": 0.00267,
+    "popularity": 73
+  },
+  {
+    "name": "Run BTS",
+    "artist": "BTS",
+    "album": "Proof",
+    "preview_url": "https://p.scdn.co/mp3-preview/abc4f797c5378fe6f4d664af3032c3d17e3a935f?cid=8b2befd867594d749e2672e8bb448435",
+    "uri": "spotify:track:69xohKu8C1fsflYAiSNbwM",
+    "danceability": 0.724,
+    "energy": 0.818,
+    "acousticness": 0.0201,
+    "popularity": 73
+  },
+  {
+    "name": "BTS Cypher Pt.3: Killer",
+    "artist": "BTS",
+    "album": "Dark & Wild",
+    "preview_url": "https://p.scdn.co/mp3-preview/3f23e60bf84a17c8b9bb8f3f75c6896e41b32bbb?cid=8b2befd867594d749e2672e8bb448435",
+    "uri": "spotify:track:5OlieB5VdsOMuBuCtllXGW",
+    "danceability": 0.793,
+    "energy": 0.924,
+    "acousticness": 0.0217,
+    "popularity": 59
+  },
+  {
+    "name": "BTS Cypher 4",
+    "artist": "BTS",
+    "album": "Wings",
+    "preview_url": "https://p.scdn.co/mp3-preview/1692d6f433c2e5a5d99ce5cdfcd09aa8057e3dc5?cid=8b2befd867594d749e2672e8bb448435",
+    "uri": "spotify:track:4cTSnpyaIR1qGaTOLJunDM",
+    "danceability": 0.817,
+    "energy": 0.797,
+    "acousticness": 0.00533,
+    "popularity": 59
+  },
+  {
+    "name": "Neva Play (feat. RM of BTS)",
+    "artist": "Megan Thee Stallion",
+    "album": "Neva Play (feat. RM of BTS)",
+    "preview_url": "https://p.scdn.co/mp3-preview/c498e1ba0850ccab5f527c4f6722fde67799c208?cid=8b2befd867594d749e2672e8bb448435",
+    "uri": "spotify:track:2ZqTbIID9vFPTXaGyzbb4q",
+    "danceability": 0.826,
+    "energy": 0.756,
+    "acousticness": 0.0203,
+    "popularity": 81
+  }
+]
